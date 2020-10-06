@@ -1,0 +1,14 @@
+转到共享文件夹：$ cd /mnt/hgfs
+添加cppbuild到PATH：$ export PATH=$PATH:/usr/local/toolchains/bin
+移动文件：$ sudo mv stmobile_classifier.tar.gz /usr/local
+解压tar.gz文件：$ sudo tar -zxvf stmobile_classifier.tar.gz
+删除文件：$ sudo rm -r stmobile_classifier.tar.gz
+vim不保存退出:q(无修改）:q!（有修改）
+vim保存并退出:wq
+
+$ sudo mv test /home/changzhi/stmobile_classifier
+$ cd /mnt/hgfs/vmfiles/stmobile_classifier
+$ sudo mv test /mnt/hgfs/vmfiles/stmobile_classifier
+
+27001-21975-20716-17190-16048
+
